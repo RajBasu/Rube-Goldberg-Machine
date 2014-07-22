@@ -1,8 +1,11 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PoemManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TenPrintMosaic.cs">
     <Files>
-      <File FileName="Assets/Scripts/PoemManager.cs" Line="9" Column="62" />
+      <File FileName="Assets/Scripts/VectorFun.cs" Line="18" Column="1" />
+      <File FileName="Assets/Scripts/PoemManager.cs" Line="13" Column="18" />
+      <File FileName="Assets/Scripts/TenPrintMosaic.cs" Line="33" Column="3" />
+      <File FileName="Assets/Scripts/TextWorld.cs" Line="41" Column="33" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
